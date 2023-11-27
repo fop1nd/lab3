@@ -1,0 +1,14 @@
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfoInputs.cache
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.AssemblyInfo.cs
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.csproj.CoreCompileInputs.cache
+D:\Lecture\Lecture03\Task1\Task1\bin\Debug\net8.0\Task1.exe
+D:\Lecture\Lecture03\Task1\Task1\bin\Debug\net8.0\Task1.deps.json
+D:\Lecture\Lecture03\Task1\Task1\bin\Debug\net8.0\Task1.runtimeconfig.json
+D:\Lecture\Lecture03\Task1\Task1\bin\Debug\net8.0\Task1.dll
+D:\Lecture\Lecture03\Task1\Task1\bin\Debug\net8.0\Task1.pdb
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.dll
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\refint\Task1.dll
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.pdb
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\Task1.genruntimeconfig.cache
+D:\Lecture\Lecture03\Task1\Task1\obj\Debug\net8.0\ref\Task1.dll
